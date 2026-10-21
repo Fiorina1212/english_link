@@ -1,0 +1,25 @@
+{
+  "name": "专升本单词练习室",
+  "short_name": "单词练习",
+  "description": "看中选英、看英选中、错题复习和词库导入",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fc",
+  "theme_color": "#4f63d9",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
